@@ -157,7 +157,7 @@ body {
     width: 800px;
     height: 200px;
 }
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 600px) {
     .middle{
         width: 1200px;
     }
@@ -171,7 +171,7 @@ body {
         height: 200px;
     }
   }
-  @media only screen and (max-width: 1024px) {
+  @media only screen and (max-width: 600px) {
     .navbar{
         font-family: 'Work Sans', sans-serif;
         position: absolute;
